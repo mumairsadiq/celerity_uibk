@@ -32,7 +32,7 @@ I used following commands on my local machine to execute the nvpd program
 
 ## Executing LCSubstr
 
-I used following commands on my local machine to execute the nvpd program
+I used following commands on my local machine to execute the LCSubstr program
 
 (1) cmake ./ -DCMAKE_PREFIX_PATH="/usr/local/lib" -DHIPSYCL_PLATFORM=cuda -DHIPSYCL_GPU_ARCH=sm_30 -DCMAKE_BUILD_TYPE=Release
 
