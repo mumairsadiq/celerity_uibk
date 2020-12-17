@@ -4,8 +4,15 @@ Celerity API (https://celerity.github.io/) to implement mentioned algorithms
 ## New Algorithms
 
 Following are the new implemented algorithms that are implemented
-Longest common substring     examples/longest common substing
-Levenshtein distance (NvPD)  examples/nvpd
+
+
+Longest common substring     
+path --> examples/longest common substing
+
+
+Levenshtein distance (NvPD)
+
+path --> examples/nvpd
 
 ## Screenshots
 
