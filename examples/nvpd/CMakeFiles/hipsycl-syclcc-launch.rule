@@ -1,0 +1,1 @@
+/usr/local/lib/cmake/hipSYCL/syclcc-launcher --launcher-cxx-compiler=/usr/bin/c++ --launcher-syclcc=/usr/local/bin/syclcc-clang  --hipsycl-platform=cuda --hipsycl-gpu-arch=sm_30

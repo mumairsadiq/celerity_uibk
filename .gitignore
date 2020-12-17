@@ -1,0 +1,7 @@
+CMakeSettings.json
+build
+install
+.vs/
+.idea/
+/tags
+

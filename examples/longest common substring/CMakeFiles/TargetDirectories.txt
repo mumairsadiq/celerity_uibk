@@ -1,0 +1,3 @@
+/home/deskum/Desktop/celerity/celerity-runtime/examples/longest common substring/CMakeFiles/rebuild_cache.dir
+/home/deskum/Desktop/celerity/celerity-runtime/examples/longest common substring/CMakeFiles/LCSubstr.dir
+/home/deskum/Desktop/celerity/celerity-runtime/examples/longest common substring/CMakeFiles/edit_cache.dir
